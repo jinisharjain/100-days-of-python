@@ -14,9 +14,9 @@ I am documenting my journey of learning Python by solving problems, building min
 
 ## Progress
 
-| Day   | Problem / Project        | Topics                         |
-| ----- | ------------------------ | ------------------------------ |
-| Day 1 | Largest of Three Numbers | Variables, Input, Conditionals |
+| Day   | Problem / Project                     | Topics                         |
+| ----- | ------------------------------------- | ------------------------------ |
+| Day 1 | Largest and Smallest of Three Numbers | Variables, Input, Conditionals |
 | Day 2 | Coming Soon              | -                              |
 | Day 3 | Coming Soon              | -                              |
 
