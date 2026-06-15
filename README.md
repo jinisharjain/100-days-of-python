@@ -25,7 +25,9 @@ I am documenting my journey of learning Python by solving problems, building min
 100-days-of-python/
 
 ├── Day01/
+
 └── largest_of_three.py
+
 ├── Day02/
 
 ├── Day03/
