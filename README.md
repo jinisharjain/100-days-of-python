@@ -17,8 +17,8 @@ I am documenting my journey of learning Python by solving problems, building min
 | Day   | Problem / Project                     | Topics                         |
 | ----- | ------------------------------------- | ------------------------------ |
 | Day 1 | Largest and Smallest of Three Numbers | Variables, Input, Conditionals |
-| Day 2 | Coming Soon              | -                              |
-| Day 3 | Coming Soon              | -                              |
+| Day 2 | Palindrome String checker             | Strings, Loops                 |
+| Day 3 | Remove Duplicates from a List         | Lists, Loops                   |
 
 ## Repository Structure
 
@@ -26,13 +26,17 @@ I am documenting my journey of learning Python by solving problems, building min
 
 ├── Day01/
 
-└── largest_of_three.py
+└── largest_num_smallest.py
 
 ├── Day02/
 
+└── palindrome.py
+
 ├── Day03/
 
-├── ...
+└── remove_duplicates.py
+
+├── Day04/
 
 └── README.md
 
