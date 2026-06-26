@@ -130,4 +130,4 @@ As a Data Science and Artificial Intelligence student, I want to build strong pr
 
 ## Current Streak
 
-Day 1 / 100 
+Day 10 / 100 
