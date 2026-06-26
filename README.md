@@ -32,37 +32,70 @@ I am documenting my journey of learning Python by solving problems, building min
 ## Repository Structure
 
 100-days-of-python/
+
 │
+
 ├── Day01/
+
+
 │   └── largest_num_smallest.py
+
 │
+
 ├── Day02/
+
 │   └── palindrome.py
+
 │
+
 ├── Day03/
+
 │   └── remove_duplicates.py
+
 │
+
 ├── Day04/
-│   └── frequency_counter.py
+
+│   └── frequency_count.py
+
 │
+
 ├── Day05/
-│   └── prime_checker.py
+
+│   └── prime.py
+
 │
+
 ├── Day06/
+
 │   └── student_grade_manager.py
+
 │
+
 ├── Day07/
-│   └── quiz_game.py
+
+│   └── quiz.py
+
 │
+
 ├── Day08/
-│   └── contact_book.py
+
+│   └── contacts.py
+
 │
+
 ├── Day09/
+
 │   └── atm_simulator.py
+
 │
+
 ├── Day10/
+
 │   └── library_management.py
+
 │
+
 └── README.md
 
 
